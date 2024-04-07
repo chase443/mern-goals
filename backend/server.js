@@ -1,4 +1,3 @@
-//TODO: setup SSH and then connect git
 //TODO: setup postman for http test requests
 
 const express = require('express')
